@@ -14,7 +14,7 @@ Microsoft Excel is the most widely used spreadsheet tool in the banking and fina
 
 > Naming (name manager, use in formulas)
 
->Setting up a new sheet (header, font selection and font size, column and row sizing)
+> Setting up a new sheet (header, font selection and font size, column and row sizing)
 
 <HR>
 
